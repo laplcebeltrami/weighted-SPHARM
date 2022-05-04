@@ -10,5 +10,5 @@ https://pages.stat.wisc.edu/~mchung/papers/TMI.SPHARM.2007.pdf
 [3] Chung, M.K. Hartley, R., Dalton, K.M., Davidson, R.J. 2008. Encoding cortical surface by spherical harmonics.  Satistica Sinica 18:1269-1291
 https://pages.stat.wisc.edu/~mchung/papers/sinica.2008.pdf
 
-If you are using the codes, please refernce one of these papers. The code is written by
+Run script-SPHARM.m. If you are using the codes, please refernce one of these papers. The code is written by
 Moo K. Chung of University of Wisconsin-Madison
