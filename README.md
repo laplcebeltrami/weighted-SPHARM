@@ -1,5 +1,5 @@
 # weighted-SPHARM
-The codes performs the weighted spherical harmonic (SPHAMR) represenation published in
+The code performs the weighted spherical harmonic (SPHAMR) represenation published in
 
 [1] Chung, M.K., Dalton, K.M., Shen, L., L., Evans, A.C., Davidson, R.J. 2007. Weighted Fourier series representation and its application to 
 quantifying the amount of gray matter. Special Issue of  IEEE Transactions on Medical Imaging, on Computational Neuroanatomy. 26:566-581 
